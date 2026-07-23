@@ -1,4 +1,4 @@
-!github_snake.svg
+![Github Snake](./github_snake.svg)
 
 
 Hi, I'm Laxmi 👋 
