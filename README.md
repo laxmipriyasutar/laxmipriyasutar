@@ -1,4 +1,4 @@
-./github_snacks.svg
+[./github_snacks.svg](https://github.com/laxmipriyasutar/laxmipriyasutar/blob/main/github_snake.svg)
 
 
 Hi, I'm Laxmi 👋 
