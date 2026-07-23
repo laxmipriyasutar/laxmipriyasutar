@@ -1,4 +1,4 @@
-github_snake.svg
+./github_snake.svg
 
 
 Hi, I'm Laxmi 👋 
